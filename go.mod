@@ -5,7 +5,7 @@ go 1.26.0
 require (
 	github.com/konflux-ci/e2e-tests v0.0.0-20261005080553-57f6fb6eb6f2
 	github.com/spf13/cobra v1.10.2
-	github.com/tektoncd/pipeline v1.9.2
+	github.com/tektoncd/pipeline v1.17.0
 	k8s.io/apimachinery v0.37.1
 	k8s.io/klog/v2 v2.140.0
 	sigs.k8s.io/controller-runtime v0.25.2
