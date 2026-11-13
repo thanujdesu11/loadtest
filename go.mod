@@ -129,7 +129,7 @@ require (
 	github.com/jbenet/go-context v0.0.0-20150711004518-d14ea06fba99 // indirect
 	github.com/json-iterator/go v1.1.12 // indirect
 	github.com/kevinburke/ssh_config v1.4.0 // indirect
-	github.com/klauspost/compress v1.19.0 // indirect
+	github.com/klauspost/compress v1.20.2 // indirect
 	github.com/klauspost/cpuid/v2 v2.3.0 // indirect
 	github.com/konflux-ci/application-api v0.0.0-20260529131129-a9594acdc104 // indirect
 	github.com/konflux-ci/image-controller v0.0.0-20260623200458-d2ed99f6f8a6 // indirect
